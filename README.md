@@ -31,7 +31,7 @@ Gostou da ideia?
 
 ##  Desafio dia 01 - Ícones de redes sociais em camadas <a name="day01"></a>
 
-![Redes sociais em camadas](./projects/dia_1/social-media-sheets.gif)
+![Redes sociais em camadas](https://github.com/SpruceGabriela/30diasDeCSS/raw/master/projects/dia_1/social-media-sheets.gif)
 
 ##  Desafio dia 02 - Loading animado <a name="day02"></a>
 
