@@ -35,59 +35,59 @@ Gostou da ideia?
 
 ##  Desafio dia 02 - Loading animado <a name="day02"></a>
 
-![Loading animado](./projects/dia_2/spinner.gif)
+![Loading animado](https://github.com/SpruceGabriela/30diasDeCSS/raw/master/projects/dia_2/spinner.gif)
 
 ##  Desafio dia 03 - Efeito banner com mudança de cor do texto <a name="day03"></a>
 
-![Efeito banner com mudança de cor do texto](./projects/dia_3/marquee.gif)
+![Efeito banner com mudança de cor do texto](https://github.com/SpruceGabriela/30diasDeCSS/raw/master/projects/dia_3/marquee.gif)
 
 ##  Desafio dia 04 - Botão com borda animada <a name="day04"></a>
 
-![Efeito borda animada](./projects/dia_4/button-hover.gif)
+![Efeito borda animada](https://github.com/SpruceGabriela/30diasDeCSS/raw/master/projects/dia_4/button-hover.gif)
 
 ##  Desafio dia 05 - Botão com efeito pulse <a name="day05"></a>
 
-![Efeito pulse](./projects/dia_5/pulse-button.gif)
+![Efeito pulse](https://github.com/SpruceGabriela/30diasDeCSS/raw/master/projects/dia_5/pulse-button.gif)
 
 ##  Desafio dia 06 - Texto com efeito líquido <a name="day06"></a>
 
-![Efeito texto líquido](./projects/dia_6/water.gif)
+![Efeito texto líquido](https://github.com/SpruceGabriela/30diasDeCSS/raw/master/projects/dia_6/water.gif)
 
 ##  Desafio dia 07 - Ícone para menu hamburguer <a name="day07"></a>
 
-![Ícone para menu hamburguer](./projects/dia_7/burger.gif)
+![Ícone para menu hamburguer](https://github.com/SpruceGabriela/30diasDeCSS/raw/master/projects/dia_7/burger.gif)
 
 ##  Desafio dia 08 - Relógio utilizando neomorfismo <a name="day08"></a>
 
-![Relógio utilizando neomorfismo](./projects/dia_8/clock.gif)
+![Relógio utilizando neomorfismo](https://github.com/SpruceGabriela/30diasDeCSS/raw/master/projects/dia_8/clock.gif)
 
 ##  Desafio dia 09 - Menu bubble <a name="day09"></a>
 
-![Menu bubble](./projects/dia_9/bubble-menu.gif)
+![Menu bubble](https://github.com/SpruceGabriela/30diasDeCSS/raw/master/projects/dia_9/bubble-menu.gif)
 
 ##  Desafio dia 10 - Loading animado <a name="day10"></a>
 
-![Menu bubble](./projects/dia_10/loading.gif)
+![Menu bubble](https://github.com/SpruceGabriela/30diasDeCSS/raw/master/projects/dia_10/loading.gif)
 
 ##  Desafio dia 11 - Botão On/Off <a name="day11"></a>
 
-![Menu bubble](./projects/dia_11/on-off.gif)
+![Menu bubble](https://github.com/SpruceGabriela/30diasDeCSS/raw/master/projects/dia_11/on-off.gif)
 
 ##  Desafio dia 12 - Polaroid <a name="day12"></a>
 
-![Polaroid](./projects/dia_12/polaroid.gif)
+![Polaroid](https://github.com/SpruceGabriela/30diasDeCSS/raw/master/projects/dia_12/polaroid.gif)
 
 ##  Desafio dia 13 - Linear-gradient animado <a name="day13"></a>
 
-![MGradient](./projects/dia_13/gradient.gif)
+![MGradient](https://github.com/SpruceGabriela/30diasDeCSS/raw/master/projects/dia_13/gradient.gif)
 
 ##  Desafio dia 14 - Indicador de chat (digitando...) <a name="day14"></a>
 
-![Chatbot](./projects/dia_14/chatbot.gif)
+![Chatbot](https://github.com/SpruceGabriela/30diasDeCSS/raw/master/projects/dia_14/chatbot.gif)
 
 ##  Desafio dia 15 - Dia Ensolarado <a name="day15"></a>
 
-![Sunnyday](./projects/dia_15/sunny-day.gif)
+![Sunnyday](https://github.com/SpruceGabriela/30diasDeCSS/raw/master/projects/dia_15/sunny-day.gif)
 
 
 ❤ Thanks [Milena Carecho](https://github.com/MilenaCarecho), [Spruce Gabriela](https://github.com/SpruceGabriela) e todas as meninas que trouxeram as ideias mais geniais de desafios.
